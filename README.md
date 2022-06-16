@@ -19,6 +19,17 @@ Tela de login - Nela o usuário caso já possua uma conta na plataforma bastará
 
 <img align="center" alt="Arduino uno" height="" width="400" src="https://user-images.githubusercontent.com/98723501/173964104-ec1ed2e4-facb-4c99-a587-5556e04d4cff.png" />
 
+#
+
+### `New account screen` 
+Criar nova conta - O usuário poderá se cadastrar no app a partir desta tela.
+
+<img align="center" alt="Arduino uno" height="" width="400" src="https://user-images.githubusercontent.com/98723501/173976833-4da754a9-e471-48ff-b5b7-7f1b9efacf2b.png" />
+
+
+
+
+
 
 
 
