@@ -1,4 +1,5 @@
 # `Projeto integrador do curso de TSI` - IFRN
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## `Resumo`
 Nosso projeto possue o objetivo de criar uma aplicação Mobile que o usuário poderá fazer uma lista pesonalizada de suas compras antes de ir ao supermecado.
@@ -43,7 +44,7 @@ Tela de boas-vindas. Essa tela aparecerá a partir do momento que o novo usuári
 
 #
 
-### `Menu screen` 
+### `Profile screen` 
 Tela de menu. Aqui o usuário terá acesso a seu perfil podendo alterar seu endereço, senhar, ver historico etc.
 
 <img align="center" alt="Menu" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174195149-77511829-aba2-477b-9c27-eb3ce2e9065e.png" />
@@ -53,14 +54,26 @@ Tela de menu. Aqui o usuário terá acesso a seu perfil podendo alterar seu ende
 ### `Main screen` 
 Aqui  está a tela principal da aplicação. Aqui o usuário poderá escolher a categoria de produtos, quais os produtos ele adicionará a lista ou usar a lista anterior.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174195256-be41b26f-cd22-4776-a0f2-e5e2f8a5a4eb.png" />
+<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175956525-96901176-e26d-4720-a89a-e1e73ebe2f4d.png" />
 
 #
 
 ### `Main screen` 
 Tela onde o usuário poderá criar sua lista, escolher a categiria de produtos ou usar uma já existente.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174197832-8513f57d-51c0-4d02-8e11-8faca04a2d02.png" />
+<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175957144-ee33fff1-bfb2-45cc-8bf2-d0789687d821.png" />
+
+#
+
+### `Lowest price screen` 
+Esta tela o usuário encontrará a melhor opção de compra. Escolherá dentre a lista de supermecados aquele que melhor economizará.
+
+<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175958740-180b0a95-13ab-4eaa-a41d-547e6c7f7e13.png" />
+
+
+
+
+
 
 
 
