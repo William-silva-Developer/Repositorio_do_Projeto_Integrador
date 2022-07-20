@@ -11,35 +11,35 @@ Essa aplicação também estará em contato com algumas APIs de supermecados ond
 ### `Splash screen` 
 Tela de abertura
 
-<img align="center" alt="Tela de abertura" height="" width="400" src="https://user-images.githubusercontent.com/98723501/173961242-8586c694-b864-4490-abdc-6c2b411f63c0.png" />  
+<img align="center" alt="Tela de abertura" height="" width="200" src="https://user-images.githubusercontent.com/98723501/173961242-8586c694-b864-4490-abdc-6c2b411f63c0.png" />  
 
 #
 
 ### `Login screen` 
 Tela de login - Nela o usuário caso já possua uma conta na plataforma bastará apenas que ele entre com o login e senha mas caso não tenha ainda terá uma certa logo abaixo indicando ao usuário que ele cadastre-se na aplicação.
 
-<img align="center" alt="Tela de login" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174194850-3925f71e-7dad-474a-8f5b-2ae2c445459e.png" />
+<img align="center" alt="Tela de login" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174194850-3925f71e-7dad-474a-8f5b-2ae2c445459e.png" />
 
 #
 
 ### `New account screen` 
 Criar nova conta - O usuário poderá se cadastrar no app a partir desta tela.
 
-<img align="center" alt="Criar nova conta" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174194955-b0d96c70-5e4a-4909-a645-c7658fab46ab.png" />
+<img align="center" alt="Criar nova conta" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174194955-b0d96c70-5e4a-4909-a645-c7658fab46ab.png" />
 
 #
 
 ### `New account screen` 
 O usuário após inserir o seu nome, e-mail e senha na primenra tela, será direcionado para a segunda tela de cadastro. Onde será solicitado seu endereço.
 
-<img align="center" alt="Criar nova conta" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174195054-cb814439-bc39-4674-87af-fae21d7fb4be.png" />
+<img align="center" alt="Criar nova conta" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174195054-cb814439-bc39-4674-87af-fae21d7fb4be.png" />
 
 #
 
 ### `Welcome screen` 
 Tela de boas-vindas. Essa tela aparecerá a partir do momento que o novo usuário finalizar seu cadastro na plataforma. Como também surgirá sempre que o usuário acessar o aplicativo.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174196402-06d6c80c-f6d0-4eaf-bc3f-50b204c358b9.png" />
+<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174196402-06d6c80c-f6d0-4eaf-bc3f-50b204c358b9.png" />
 
 
 #
@@ -47,28 +47,40 @@ Tela de boas-vindas. Essa tela aparecerá a partir do momento que o novo usuári
 ### `Profile screen` 
 Tela de menu. Aqui o usuário terá acesso a seu perfil podendo alterar seu endereço, senhar, ver historico etc.
 
-<img align="center" alt="Menu" height="" width="400" src="https://user-images.githubusercontent.com/98723501/174195149-77511829-aba2-477b-9c27-eb3ce2e9065e.png" />
+<img align="center" alt="Menu" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174195149-77511829-aba2-477b-9c27-eb3ce2e9065e.png" />
 
 #
 
 ### `Main screen` 
 Aqui  está a tela principal da aplicação. Aqui o usuário poderá escolher a categoria de produtos, quais os produtos ele adicionará a lista ou usar a lista anterior.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175956525-96901176-e26d-4720-a89a-e1e73ebe2f4d.png" />
+<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175956525-96901176-e26d-4720-a89a-e1e73ebe2f4d.png" />
 
 #
 
 ### `Main screen` 
 Tela onde o usuário poderá criar sua lista, escolher a categiria de produtos ou usar uma já existente.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175957144-ee33fff1-bfb2-45cc-8bf2-d0789687d821.png" />
+<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175957144-ee33fff1-bfb2-45cc-8bf2-d0789687d821.png" />
 
 #
 
 ### `Lowest price screen` 
 Esta tela o usuário encontrará a melhor opção de compra. Escolherá dentre a lista de supermecados aquele que melhor economizará.
 
-<img align="center" alt="Tela principal" height="" width="400" src="https://user-images.githubusercontent.com/98723501/175958740-180b0a95-13ab-4eaa-a41d-547e6c7f7e13.png" />
+<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175958740-180b0a95-13ab-4eaa-a41d-547e6c7f7e13.png" />
+
+#
+
+## `Diagrama de caso de uso`
+
+![Captura de Tela (7)](https://user-images.githubusercontent.com/98723501/179877363-b06e73d3-f5ed-4c45-9d5d-43b95563d1ea.png)
+
+#
+
+## `Diagrama de classe`
+![Captura de Tela (8)](https://user-images.githubusercontent.com/98723501/179877888-b2c688f0-1f2a-4c90-a1bf-54856c05a257.png)
+
 
 
 
