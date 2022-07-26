@@ -80,7 +80,7 @@ Esta tela o usuário encontrará a melhor opção de compra. Escolherá dentre a
 #
 
 ## `Diagrama de classe`
-Nosso diagrama de classe que envolverá a criação do nosso BD em um SGBD relacional.
+Nosso diagrama de classe envolverá a criação do nosso BD em um SGBD relacional.
 Logo abaixo teremos uma breve explicação de cada classe que será implementada no sistema.
 
 - `Rigister`: 
