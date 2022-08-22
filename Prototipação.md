@@ -65,4 +65,7 @@ Hoje criar uma aplicação Mobile seja para qual for a plataforma é crucial gar
 
 ## 3 Protótipo
 ### 3.1 Visão geral das telas
+![Captura de Tela (82)](https://user-images.githubusercontent.com/98723501/185830605-e72cc732-197f-4c0d-8696-7d173aea92b1.png)
+
+![Captura de Tela (81)](https://user-images.githubusercontent.com/98723501/185830220-cc0afd6b-ee63-48b4-8769-291d61829e46.png)
 
