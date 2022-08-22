@@ -79,9 +79,9 @@ Esta tela o usuário encontrará a melhor opção de compra. Escolherá dentre a
 
 #
 
-## `Diagrama de classe`
-Nosso diagrama de classe envolverá a criação do nosso BD em um SGBD relacional.
-Logo abaixo teremos uma breve explicação de cada classe que será implementada no sistema.
+## `Diagrama de Entidade Relacionamento`
+Nosso diagrama envolve a criação do nosso BD no SGBD relacional.
+Logo abaixo teremos uma breve explicação de cada classe que foi implementada no sistema.
 
 - `Rigister`: 
 Essa classe em nosso sistema será responsável envolver o cadastro dos clientes na aplicação, onde cada cliente ao si registrar será criado um perfil para cada um.
@@ -90,7 +90,7 @@ Essa classe em nosso sistema será responsável envolver o cadastro dos clientes
 A classe pessoa é uma classe geral ou primitiva onde será cadastrado os tipos de pessoas em nosso sistema. 
 Haverá dois tipos de pessoas: pessoa juridica(supermecados) e pessoa fisíca(usuários ou clientes).
 
-![Captura de Tela (8)](https://user-images.githubusercontent.com/98723501/179877888-b2c688f0-1f2a-4c90-a1bf-54856c05a257.png)
+![Captura de Tela (83)](https://user-images.githubusercontent.com/98723501/185929215-cf9bdccc-ce0f-4290-9bd9-a4e86bcb2bc2.png)
 
 
 
