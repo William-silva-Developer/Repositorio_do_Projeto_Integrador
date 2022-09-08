@@ -8,67 +8,59 @@ Nossa aplicação poderá cadastrar usuários em sua plataforma onde ficará sal
 Essa aplicação também estará em contato com algumas APIs de supermecados onde ao usuário criar sua lista de compras poderá ter uma media parcial de valor que poderá gastar com aquela lista no supermecado X. Isso fazerá o cliente ter em suas mãos informações que fazerá ele saber de antemão aonde economizará mais.
 
 ## `Interfaces`
-### `Splash screen` 
+### Splash  
 Tela de abertura
 
-<img align="center" alt="Tela de abertura" height="" width="200" src="https://user-images.githubusercontent.com/98723501/173961242-8586c694-b864-4490-abdc-6c2b411f63c0.png" />  
+![Captura de tela de 2022-09-08 08-50-21](https://user-images.githubusercontent.com/98723501/189120044-86ff4237-0e59-4560-9526-c0eab9f0285d.png)
 
 #
 
-### `Login screen` 
+### Login  
 Tela de login - Nela o usuário caso já possua uma conta na plataforma bastará apenas que ele entre com o login e senha mas caso não tenha ainda terá uma certa logo abaixo indicando ao usuário que ele cadastre-se na aplicação.
 
-<img align="center" alt="Tela de login" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174194850-3925f71e-7dad-474a-8f5b-2ae2c445459e.png" />
+![2](https://user-images.githubusercontent.com/98723501/189120700-54f7786d-61d1-49f0-9cbd-7ff6932c2423.png)
 
 #
 
-### `New account screen` 
-Criar nova conta - O usuário poderá se cadastrar no app a partir desta tela.
+### Home 
+Tela principal da aplicação. Aqui o usuário poderá escolher em clicar em criar lista ou clicar em uma das categoria de produtos que estará renderizada na tela e iniciar a criação da lista.
 
-<img align="center" alt="Criar nova conta" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174194955-b0d96c70-5e4a-4909-a645-c7658fab46ab.png" />
-
-#
-
-### `New account screen` 
-O usuário após inserir o seu nome, e-mail e senha na primenra tela, será direcionado para a segunda tela de cadastro. Onde será solicitado seu endereço.
-
-<img align="center" alt="Criar nova conta" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174195054-cb814439-bc39-4674-87af-fae21d7fb4be.png" />
+![3](https://user-images.githubusercontent.com/98723501/189121198-4c8a8269-124f-4ba6-838d-030a2bcdba13.png)
 
 #
 
-### `Welcome screen` 
-Tela de boas-vindas. Essa tela aparecerá a partir do momento que o novo usuário finalizar seu cadastro na plataforma. Como também surgirá sempre que o usuário acessar o aplicativo.
+### Supermercado 
+Nesta tela o usuário poderá selecionar um dos supermercados renderizados na tela. Pós os produtos que ele escolher para sua listinha será referente ao supermercado escolhido por ele aqui.
 
-<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174196402-06d6c80c-f6d0-4eaf-bc3f-50b204c358b9.png" />
-
-
-#
-
-### `Profile screen` 
-Tela de menu. Aqui o usuário terá acesso a seu perfil podendo alterar seu endereço, senhar, ver historico etc.
-
-<img align="center" alt="Menu" height="" width="200" src="https://user-images.githubusercontent.com/98723501/174195149-77511829-aba2-477b-9c27-eb3ce2e9065e.png" />
+![4](https://user-images.githubusercontent.com/98723501/189122879-684009fb-95a9-4a17-a55f-e162033edd17.png)
 
 #
 
-### `Main screen` 
-Aqui  está a tela principal da aplicação. Aqui o usuário poderá escolher a categoria de produtos, quais os produtos ele adicionará a lista ou usar a lista anterior.
+### Categoria
+Depois da escolha do supermercado o usuário deverá escolher uma categoria de produtos ou a geral para começar a escolher seus produtos.
 
-<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175956525-96901176-e26d-4720-a89a-e1e73ebe2f4d.png" />
-
-#
-
-### `Main screen` 
-Tela onde o usuário poderá criar sua lista, escolher a categiria de produtos ou usar uma já existente.
-
-<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175957144-ee33fff1-bfb2-45cc-8bf2-d0789687d821.png" />
+![Captura de tela de 2022-09-08 09-45-25](https://user-images.githubusercontent.com/98723501/189125136-1d113c6a-3855-4de4-bbd2-fb7b307f14c7.png)
 
 #
 
-### `Lowest price screen` 
-Esta tela o usuário encontrará a melhor opção de compra. Escolherá dentre a lista de supermecados aquele que melhor economizará.
+### Produtos 
+Escolhida a categoria dos produtos então será renderizado na tela todos os produtos referentes ao supermercado escolhido. Com o seu preço, marca entre outras informações.
 
-<img align="center" alt="Tela principal" height="" width="200" src="https://user-images.githubusercontent.com/98723501/175958740-180b0a95-13ab-4eaa-a41d-547e6c7f7e13.png" />
+![5](https://user-images.githubusercontent.com/98723501/189126783-a69723f4-184b-4657-a38f-55917d70c1cd.png)
+
+#
+
+### Lista 
+Aqui é a tela na qual o usuário poderá visualizar as listas em processo. Nela ele poderá realizar uma comparação de preços dentre as listas que ele criou e escolher a melhor opção para ele.
+
+![6](https://user-images.githubusercontent.com/98723501/189127723-e463e37b-95d4-4061-93e3-d382191a9a58.png)
+
+#
+
+### Histórico
+Aqui nesta tela o usuário poderá ter um histórico de suas listas realizadas em meses anteriores onde poderá ter informações que julgue necessárias.
+
+![7](https://user-images.githubusercontent.com/98723501/189128750-8b4e93f6-4fe3-4a0e-b365-610868b43860.png)
 
 #
 
