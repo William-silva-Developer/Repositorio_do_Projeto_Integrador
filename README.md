@@ -1,5 +1,4 @@
 # `Projeto integrador do curso de TSI` - IFRN
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## `Resumo`
 Nosso projeto possue o objetivo de criar uma aplicação Mobile que o usuário poderá fazer uma lista pesonalizada de suas compras antes de ir ao supermecado.
